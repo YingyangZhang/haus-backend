@@ -812,41 +812,41 @@ data_array = [
     }
 ]
 
-Category.create(
-    id: 1,
-    category_name: "Table"
-)
-Category.create(
-    id: 2,
-    category_name: "Chair"
-)
-Category.create(
-    id: 3,
-    category_name: "Sofa"
-)
+# Category.create(
+#     id: 1,
+#     category_name: "Table"
+# )
+# Category.create(
+#     id: 2,
+#     category_name: "Chair"
+# )
+# Category.create(
+#     id: 3,
+#     category_name: "Sofa"
+# )
 
-data_array.each do |data| 
-    Image.create(
-        id: data[:image][:id],
-        angle1: data[:image][:angle1],
-        angle2: data[:image][:angle2],
-        angle3: data[:image][:angle3],
-        thumbnail: data[:image][:thumbnail]
-    )
+# data_array.each do |data| 
+#     Image.create(
+#         id: data[:image][:id],
+#         angle1: data[:image][:angle1],
+#         angle2: data[:image][:angle2],
+#         angle3: data[:image][:angle3],
+#         thumbnail: data[:image][:thumbnail]
+#     )
     
-    Furniture.create(
-        id: data[:id],
-        name: data[:name], 
-        designer: data[:designer], 
-        material: data[:material], 
-        dimensions: data[:dimensions],
-        price: data[:price],
-        origin: data[:origin],
-        category_id: data[:category_id],
-        image_id: data[:image_id]
-    )
+#     Furniture.create(
+#         id: data[:id],
+#         name: data[:name], 
+#         designer: data[:designer], 
+#         material: data[:material], 
+#         dimensions: data[:dimensions],
+#         price: data[:price],
+#         origin: data[:origin],
+#         category_id: data[:category_id],
+#         image_id: data[:image_id]
+#     )
 
-end
+# end
 
 
 

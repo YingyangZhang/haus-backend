@@ -813,15 +813,15 @@ data_array = [
 ]
 
 Category.create(
-    
+    id: 1,
     category_name: "Table"
 )
 Category.create(
-    
+    id: 2,
     category_name: "Chair"
 )
 Category.create(
-    
+    id: 3,
     category_name: "Sofa"
 )
 

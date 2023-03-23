@@ -812,6 +812,19 @@ data_array = [
     }
 ]
 
+# Category.create(
+#     id: 1,
+#     category_name: "Table"
+# )
+# Category.create(
+#     id: 2,
+#     category_name: "Chair"
+# )
+# Category.create(
+#     id: 3,
+#     category_name: "Sofa"
+# )
+
 Category.find_or_initialize_by(id: 1) do |category|
     category.category_name = "Table"
     category.save!
@@ -827,28 +840,49 @@ Category.find_or_initialize_by(id: 1) do |category|
     category.save!
   end
 
-data_array.each do |data| 
-    Image.create(
-        id: data[:image][:id],
-        angle1: data[:image][:angle1],
-        angle2: data[:image][:angle2],
-        angle3: data[:image][:angle3],
-        thumbnail: data[:image][:thumbnail]
-    )
+# data_array.each do |data| 
+#     Image.create(
+#         id: data[:image][:id],
+#         angle1: data[:image][:angle1],
+#         angle2: data[:image][:angle2],
+#         angle3: data[:image][:angle3],
+#         thumbnail: data[:image][:thumbnail]
+#     )
     
-    Furniture.create(
-        id: data[:id],
-        name: data[:name], 
-        designer: data[:designer], 
-        material: data[:material], 
-        dimensions: data[:dimensions],
-        price: data[:price],
-        origin: data[:origin],
-        category_id: data[:category_id],
-        image_id: data[:image_id]
-    )
+#     Furniture.create(
+#         id: data[:id],
+#         name: data[:name], 
+#         designer: data[:designer], 
+#         material: data[:material], 
+#         dimensions: data[:dimensions],
+#         price: data[:price],
+#         origin: data[:origin],
+#         category_id: data[:category_id],
+#         image_id: data[:image_id]
+#     )
 
-end
+# end
 
+data_array.each do |data|
+    Image.find_or_initialize_by(id: data[:image][:id]) do |image|
+      image.angle1 = data[:image][:angle1]
+      image.angle2 = data[:image][:angle2]
+      image.angle3 = data[:image][:angle3]
+      image.thumbnail = data[:image][:thumbnail]
+      image.save!
+    end
+  
+    Furniture.find_or_initialize_by(id: data[:id]) do |furniture|
+      furniture.name = data[:name]
+      furniture.designer = data[:designer]
+      furniture.material = data[:material]
+      furniture.dimensions = data[:dimensions]
+      furniture.price = data[:price]
+      furniture.origin = data[:origin]
+      furniture.category_id = data[:category_id]
+      furniture.image_id = data[:image_id]
+      furniture.save!
+    end
+  end
 
 

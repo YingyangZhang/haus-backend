@@ -812,18 +812,20 @@ data_array = [
     }
 ]
 
-Category.create(
-    id: 1,
-    category_name: "Table"
-)
-Category.create(
-    id: 2,
-    category_name: "Chair"
-)
-Category.create(
-    id: 3,
-    category_name: "Sofa"
-)
+Category.find_or_initialize_by(id: 1) do |category|
+    category.category_name = "Table"
+    category.save!
+  end
+  
+  Category.find_or_initialize_by(id: 2) do |category|
+    category.category_name = "Chair"
+    category.save!
+  end
+  
+  Category.find_or_initialize_by(id: 3) do |category|
+    category.category_name = "Sofa"
+    category.save!
+  end
 
 data_array.each do |data| 
     Image.create(

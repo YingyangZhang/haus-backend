@@ -864,26 +864,24 @@ Category.find_or_initialize_by(id: 1) do |category|
 # end
 
 data_array.each do |data|
-    Image.find_or_initialize_by(id: data[:image][:id]) do |image|
-      image.angle1 = data[:image][:angle1]
-      image.angle2 = data[:image][:angle2]
-      image.angle3 = data[:image][:angle3]
-      image.thumbnail = data[:image][:thumbnail]
-      image.save!
+    image = Image.find_or_create_by(id: data[:image][:id]) do |img|
+      img.angle1 = data[:image][:angle1]
+      img.angle2 = data[:image][:angle2]
+      img.angle3 = data[:image][:angle3]
+      img.thumbnail = data[:image][:thumbnail]
     end
-  
-    Furniture.find_or_initialize_by(id: data[:id]) do |furniture|
-      furniture.name = data[:name]
-      furniture.designer = data[:designer]
-      furniture.material = data[:material]
-      furniture.dimensions = data[:dimensions]
-      furniture.price = data[:price]
-      furniture.origin = data[:origin]
-      furniture.category_id = data[:category_id]
-      furniture.image_id = data[:image_id]
-      furniture.save!
+    
+    furniture = Furniture.find_or_create_by(id: data[:id]) do |f|
+      f.name = data[:name]
+      f.designer = data[:designer]
+      f.material = data[:material]
+      f.dimensions = data[:dimensions]
+      f.price = data[:price]
+      f.origin = data[:origin]
+      f.category_id = data[:category_id]
+      f.image_id = image.id
     end
-
+    
     image.update(thumbnail: data[:image][:thumbnail]) if data[:image][:thumbnail]
   end
 

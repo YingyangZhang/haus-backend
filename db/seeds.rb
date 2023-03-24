@@ -26,7 +26,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/09/leibal_bb-chair_corpus-studio_2-scaled.webp",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/09/leibal_bb-chair_corpus-studio_sq-scaled.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/09/leibal_bb-chair_corpus-studio_4-scaled.webp",
-            "thumbnail": "https://i.postimg.cc/8sQhd7mM/BBChair.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/01_hi.png"
         }
     },
     {
@@ -49,7 +49,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/07/leibal_tacta-chair_john-pawson_7.jpeg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/07/leibal_tacta-chair_john-pawson_10.jpeg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/07/leibal_tacta-chair_john-pawson_2.jpeg",
-            "thumbnail": "https://i.postimg.cc/d1WFTdvN/Tacta.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/02_hi.png"
         }
     },
     {
@@ -72,7 +72,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/10/leibal_iso-lounge_jasper-morrison_2.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/10/leibal_iso-lounge_jasper-morrison_3.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/10/leibal_iso-lounge_jasper-morrison_9.jpg",
-            "thumbnail": "https://i.postimg.cc/dt32dKR5/Iso-Lounge.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/03_hi.png"
         }
     },
     {
@@ -95,7 +95,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/09/leibal_sand_koichi-futatsumata-studio_1.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/09/leibal_sand_koichi-futatsumata-studio_2.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/09/leibal_sand_koichi-futatsumata-studio_6.jpg",
-            "thumbnail": "https://i.postimg.cc/jqFWpnNh/Sand.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/04_hi.png"
         }
     },
     {
@@ -118,7 +118,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/09/leibal_armchair_anthony-guex_00001.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/09/leibal_armchair_anthony-guex_00005.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/09/leibal_armchair_anthony-guex_00004.jpg",
-            "thumbnail": "https://i.postimg.cc/x8zsSJfF/Arm.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/05_hi.png"
         }
     },
     {
@@ -141,7 +141,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/08/leibal_trim_lucas-faber_00004.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/08/leibal_trim_lucas-faber_00009.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/08/leibal_trim_lucas-faber_00008.jpg",
-            "thumbnail": "https://i.postimg.cc/m2N70N3F/Trim.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/06_hi.png"
         }
     },
     {
@@ -160,7 +160,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/07/filo-1.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/07/leibal_filo-chair_bouroullec_8.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/07/leibal_filo-chair_bouroullec_10.jpg",
-            "thumbnail": "https://i.postimg.cc/xCwFFyv4/Filo.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/07_hi.png"
         }
     },
     {
@@ -179,7 +179,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/05/leibal_crop_layer_3.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/05/leibal_crop_layer_10.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/05/leibal_crop_layer_5.jpg",
-            "thumbnail": "https://i.postimg.cc/jdf04Cb5/Crop.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/08_hi.png"
         }
     },
     {
@@ -198,7 +198,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/04/leibal_arch_finder_00011.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/04/leibal_arch_finder_00007.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/04/leibal_arch_finder_00003.jpg",
-            "thumbnail": "https://i.postimg.cc/bvhmfNWm/Arch.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/09_hi.png"
         }
     },
     {
@@ -217,7 +217,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/04/leibal_shade-michelangelo_toshiki-omatsu_00002.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/04/leibal_shade-michelangelo_toshiki-omatsu_00014.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/04/leibal_shade-michelangelo_toshiki-omatsu_00007.jpg",
-            "thumbnail": "https://i.postimg.cc/jjdYx6k1/Shades-Of-Michelangelo.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/10_hi.png"
         }
     },
     {
@@ -236,7 +236,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/03/unnamed-1-scaled.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/03/leibal_horn-chair_destroyers-builders_00001.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/03/unnamed-scaled.jpg",
-            "thumbnail": "https://i.postimg.cc/zvwW8RBx/Horn.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/11_hi.png"
         }
     },
     {
@@ -255,7 +255,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/01/leibal_c2210-arhitektura_5.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/01/leibal_c2210-arhitektura_8.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/01/leibal_c2210-arhitektura_7.jpg",
-            "thumbnail": "https://i.postimg.cc/MZhq8F23/C2210.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/12_hi.png"
         }
     },
     {
@@ -278,7 +278,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/10/leibal_henge_fractall_1-scaled.jpeg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/10/leibal_henge_fractall_3-scaled.jpeg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/10/leibal_henge_fractall_4.jpeg",
-            "thumbnail": "https://i.postimg.cc/DyHg61GX/Henge.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/13_hi.png"
         }
     },
     {
@@ -301,7 +301,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/06/leibal_petra_peca_s.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/06/leibal_petra_peca_5.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/06/leibal_petra_peca_3.jpg",
-            "thumbnail": "https://i.postimg.cc/fbnQG3G3/Petra.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/14_hi.png"
         }
     },
     {
@@ -324,7 +324,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/07/leibal_posit_snickeriet_sq.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/07/leibal_posit_snickeriet_3.jpeg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/07/leibal_posit_snickeriet_4.jpeg",
-            "thumbnail": "https://i.postimg.cc/gJhDfjP0/Posit.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/15_hi.png"
         }
     },
     {
@@ -347,7 +347,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/09/leibal_pedestal-08_luka-yasukawa_8.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/09/leibal_pedestal-08_luka-yasukawa_7.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/09/leibal_pedestal-08_luka-yasukawa_3.jpeg",
-            "thumbnail": "https://i.postimg.cc/t4X9JnrL/Pedestal.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/16_hi.png"
         }
     },
     {
@@ -370,7 +370,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/05/leibal_blur-table_hayo-gebauer_1.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/05/leibal_blur-table_hayo-gebauer_4.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/05/leibal_blur-table_hayo-gebauer_3.jpg",
-            "thumbnail": "https://i.postimg.cc/28g4fm2b/Blur.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/17_hi.png"
         }
     },
     {
@@ -393,7 +393,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/03/leibal_solida_rain_000015.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/03/leibal_solida_rain_00001.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/03/leibal_solida_rain_00003.jpg",
-            "thumbnail": "https://i.postimg.cc/fLG8T2qy/Solida.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/18_hi.png"
         }
     },
     {
@@ -416,7 +416,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/02/leibal_aero_hector-esrawe_5.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/02/leibal_aero_hector-esrawe_sq.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/02/leibal_aero_hector-esrawe_10.jpg",
-            "thumbnail": "https://i.postimg.cc/159pc1FP/Aero.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/19_hi.png"
         }
     },
     {
@@ -439,7 +439,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/01/leibal_loop-table_nicholas-bijan-pourfard_9.jpeg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/01/leibal_loop-table_nicholas-bijan-pourfard_5.jpeg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/01/leibal_loop-table_nicholas-bijan-pourfard_1.jpeg",
-            "thumbnail": "https://i.postimg.cc/htRR3MSS/Loop.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/20_hi.png"
         }
     },
     {
@@ -462,7 +462,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2020/12/leibal_odd-table_lucas-faber_sq.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2020/12/leibal_odd-table_lucas-faber_00005.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2020/12/leibal_odd-table_lucas-faber_00004.jpg",
-            "thumbnail": "https://i.postimg.cc/Vk41rn8m/Odd.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/21_hi.png"
         }
     },
     {
@@ -485,7 +485,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/09/leibal_taarof-table_kouros-maghsoudi_00006.jpeg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/09/leibal_taarof-table_kouros-maghsoudi_00004.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/09/leibal_taarof-table_kouros-maghsoudi_00005.jpg",
-            "thumbnail": "https://i.postimg.cc/Xvzr5Tbj/Taarof.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/22_hi.png"
         }
     },
     {
@@ -508,7 +508,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/09/leibal_t-table_edits_sq-scaled.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/09/leibal_t-table_edits_2-scaled.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/09/leibal_t-table_edits_3-scaled.jpg",
-            "thumbnail": "https://i.postimg.cc/65MtTCww/TTable.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/23_hi.png"
         }
     },
     {
@@ -531,7 +531,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/03/leibal_gaze-table_maria-tyakina_8.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/03/leibal_gaze-table_maria-tyakina_4.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/03/leibal_gaze-table_maria-tyakina_5.jpg",
-            "thumbnail": "https://i.postimg.cc/Qtf0cNMB/Gaze.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/24_hi.png"
         }
     },
     {
@@ -554,7 +554,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/08/leibal_lc-sofa_tells-studio_9.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/08/leibal_lc-sofa_tells-studio_7.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/08/leibal_lc-sofa_tells-studio_5.jpg",
-            "thumbnail": "https://i.postimg.cc/vHstD6hP/LC.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/25_hi.png"
         }
     },
     {
@@ -577,7 +577,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/05/leibal_kyoto-lounge-chair_house-of-leon_6.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/05/leibal_kyoto-lounge-chair_house-of-leon_8.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2022/05/leibal_kyoto-lounge-chair_house-of-leon_7.jpg",
-            "thumbnail": "https://i.postimg.cc/J7cB6Y3q/Kyoto-Lounge.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/26_hi.png"
         }
     },
     {
@@ -600,7 +600,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/12/leibal_roll-top-sofa_sedilia_1.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/12/leibal_roll-top-sofa_sedilia_5.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/12/leibal_roll-top-sofa_sedilia_6.webp",
-            "thumbnail": "https://i.postimg.cc/02yrtkyk/RollTop.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/27_hi.png"
         }
     },
     {
@@ -623,7 +623,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/11/leibal_aku_kaschkasch_1.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/11/leibal_aku_kaschkasch_4.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/11/leibal_aku_kaschkasch_3.jpg",
-            "thumbnail": "https://i.postimg.cc/9MBFpK3w/Aku.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/28_hi.png"
         }
     },
     {
@@ -646,7 +646,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/05/leibal_assemble-sofa_destroyers-builders_9.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/05/leibal_assemble-sofa_destroyers-builders_37.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/05/leibal_assemble-sofa_destroyers-builders_34.jpg",
-            "thumbnail": "https://i.postimg.cc/m2yJr4YH/Assemble.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/29_hi.png"
         }
     },
     {
@@ -669,7 +669,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/03/leibal_vmc01_mia-cullin_5.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/03/leibal_vmc01_mia-cullin_8.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2021/03/leibal_vmc01_mia-cullin_9.jpg",
-            "thumbnail": "https://i.postimg.cc/rscg6dYY/VMC01.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/30_hi.png"
         }
     },
     {
@@ -692,7 +692,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2020/06/leibal_kite-sofa_jonas-wagell_2.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2020/06/leibal_kite-sofa_jonas-wagell_3.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2020/06/leibal_kite-sofa_jonas-wagell_1.jpg",
-            "thumbnail": "https://i.postimg.cc/nhmqY42b/Kite.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/31_hi.png"
         }
     },
     {
@@ -715,7 +715,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2020/02/leibal_sennen_sedilia_sq.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2020/02/leibal_sennen_sedilia_11.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2020/02/leibal_sennen_sedilia_10.jpg",
-            "thumbnail": "https://i.postimg.cc/x8bdDRc9/Sennen.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/32_hi.png"
         }
     },
     {
@@ -738,7 +738,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2020/01/leibal_jesso-sofa_greg-papove_1.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2020/01/leibal_jesso-sofa_greg-papove_2.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2020/01/leibal_jesso-sofa_greg-papove_3.jpg",
-            "thumbnail": "https://i.postimg.cc/2871z005/Jesso.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/33_hi.png"
         }
     },
     {
@@ -761,7 +761,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2019/12/Bureau-sofa-by-Cameron-Foggo-front.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2019/12/Bureau-sofa-by-Cameron-Foggo-angle2.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2019/12/Bureau-sofa-by-Cameron-Foggo-back.jpg",
-            "thumbnail": "https://i.postimg.cc/mrvL39mq/Bureau.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/34_hi.png"
         }
     },
     {
@@ -784,7 +784,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2019/06/KARIMOKU-CASE-STUDY_Kinuta-N-S01-04.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2019/06/KARIMOKU-CASE-STUDY_Kinuta-N-S01-03.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2019/06/KARIMOKU-CASE-STUDY_Kinuta-N-S01-05.jpg",
-            "thumbnail": "https://i.postimg.cc/9FQDQGKt/Kinuta.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/35_hi.png"
         }
     },
     {
@@ -807,7 +807,7 @@ data_array = [
             "angle1": "https://leibal.wpenginepowered.com/wp-content/uploads/2019/06/leibal_press-sofa_studio-truly-truly_9sq.jpg",
             "angle2": "https://leibal.wpenginepowered.com/wp-content/uploads/2019/06/leibal_press-sofa_studio-truly-truly_8.jpg",
             "angle3": "https://leibal.wpenginepowered.com/wp-content/uploads/2019/06/leibal_press-sofa_studio-truly-truly_7.jpg",
-            "thumbnail": "https://i.postimg.cc/RVJzdhHx/Press.png"
+            "thumbnail": "https://haus-imgs.s3.amazonaws.com/hi-imgs/36_hi.png"
         }
     }
 ]

@@ -883,6 +883,8 @@ data_array.each do |data|
       furniture.image_id = data[:image_id]
       furniture.save!
     end
+
+    image.update(thumbnail: data[:image][:thumbnail]) if data[:image][:thumbnail]
   end
 
 
